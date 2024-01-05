@@ -32,7 +32,7 @@
 
 - 💬 Ask me about *NumPy, Pandas, Matplotlib, Seaborn, Web Scraping*
 
-- 📫 Feel free to reach me out at paezparodi@gmail.com**
+- 📫 Feel free to reach me out at paezparodi@gmail.com*
 
 - 🏠 Also We've a tech community called [Always stay +]([https://discord.com/invite/p4TWyft886](https://discord.gg/gY2mdymq)).
 <!--Intro end-->
