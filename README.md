@@ -1,3 +1,40 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Aaron Parodi Paez</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Code is poetry.</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I am currently working as an independent information analyst.
+
+- ☁️ I have verifiable work experience in both the *public and private sectors.*
+
+- 💬 Ask me about *NumPy, Pandas, Matplotlib, Seaborn, Web Scraping*
+
+- 📫 Feel free to reach me out at paezparodi@gmail.com*
+
+- 🏠 Also We've a tech community called [Always stay+]([https://discord.gg/gY2mdymq]).
+<!--Intro end-->
 
 
 <h3 align="left">Connect with me:</h3>
