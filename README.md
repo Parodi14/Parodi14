@@ -28,9 +28,9 @@
 <!--Intro start-->
 - 🔭 I am currently working as an independent information analyst.
 
-- ☁️ I have verifiable work experience in both the **public and private sectors.*
+- ☁️ I have verifiable work experience in both the *public and private sectors.*
 
-- 💬 Ask me about **NumPy, Pandas, Matplotlib, Seaborn, Web Scraping*
+- 💬 Ask me about *NumPy, Pandas, Matplotlib, Seaborn, Web Scraping*
 
 - 📫 Feel free to reach me out at paezparodi@gmail.com**
 
