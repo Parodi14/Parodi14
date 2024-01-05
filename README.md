@@ -34,7 +34,7 @@
 
 - 📫 Feel free to reach me out at paezparodi@gmail.com*
 
-- 🏠 Also We've a tech community called [Always stay +]([https://discord.com/invite/p4TWyft886](https://discord.gg/gY2mdymq)).
+- 🏠 Also We've a tech community called [Always stay+]([https://discord.gg/gY2mdymq]).
 <!--Intro end-->
 
 <!--h1 without bottom border-->
