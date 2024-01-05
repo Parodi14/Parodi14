@@ -26,19 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I am currently working as an independent information analyst.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- ☁️ I have verifiable work experience in both the **public and private sectors.*
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💬 Ask me about **NumPy, Pandas, Matplotlib, Seaborn, Web Scraping*
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 Feel free to reach me out at paezparodi@gmail.com**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 Also We've a tech community called [Always stay +]([https://discord.com/invite/p4TWyft886](https://discord.gg/gY2mdymq)).
 <!--Intro end-->
 
 
